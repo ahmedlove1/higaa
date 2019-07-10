@@ -1,4 +1,4 @@
-﻿token= NTk4NjQyODE3Nzg2NDQ1ODU0.XSZnlg.ufMg2M8QpuVnCHAbeG_6HoqQY2k
+token= NTk4NjQyODE3Nzg2NDQ1ODU0.XSZnlg.ufMg2M8QpuVnCHAbeG_6HoqQY2k
 owner= 431636432185065482
 prefix= k
 game= Streaming
